@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasjan Çupri</h1>
 <h3 align="center">I'm a passionate full-stack web developer💻 based in Tirana, Albania</h3>
 
-- 🔭 I’m currently working on [Sigma](https://github.com/v4sj4n/sigma)
-
-- 🌱 I’m currently learning **Express**
 
 - 👨‍💻 All of my projects are available at [v4sj4n.netlify.app](v4sj4n.netlify.app)
 
